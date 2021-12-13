@@ -12,5 +12,6 @@
 <a href="aimanPage.jsp">Aiman page</a>
 <a href="nadPage.jsp">Nad page</a>
 <a href="SabrinaPage.jsp">Sabrina page</a>
+<a href="SuPage.jsp">Su page</a>
 </body>
 </html>
